@@ -8,7 +8,7 @@ El presente trabajo consiste en la recapitulación del deporte de fuerza Powerli
 
 En este repositorio contiene el CSV limpio y completo de las competiciones realizadas en España durante el 2025 y un CSV con los registros de los récords conseguidos durante la temporada. NO se incluyen competiciones continentales ni internacionales (eso lo dejo para un futuro). Los datos que hay son los mismos que los del primer repositorio, la novedad es que incluyo las provincias y Comunidades Autónomas de los clubs. Por último incluyo un Dashboard creado en PowerBI, donde he creado unas medidas, además de filtrados básicos para aportar información en las tarjetas. 
 
-DASHBOARD
+** DASHBOARD **
 <img width="1281" height="721" alt="image" src="https://github.com/user-attachments/assets/447bf673-9078-4ace-952d-1a82965ed901" />
 
 ## FINALIDAD
