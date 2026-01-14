@@ -57,7 +57,7 @@ Por lo que a este proyecto se refiere, me he querido centrar en primer lugar sob
 | Vázquez Hernández-Carrillo Víctor      | -120     | SNR      | RV STRENGTH              | 892.5 | 104.24 | Campeonato de España Absoluto       |
 
 
-|                                                                #TOP Atletas en cada movimiento                                                           |
+               #TOP Atletas en cada movimiento                                                           
 | Sexo| Movimiento | Atleta                                 | Cat peso | Cat edad | Club                     | KGS   | Competición                         |
 |-----|------------|----------------------------------------|----------|----------|--------------------------|-------|-------------------------------------|
 |M    | Sentadilla | Pérez Barros Antonio                   | -105     | SNR      | BASIC STRENGTH           | 889.0 | Campeonato de España Absoluto       |
