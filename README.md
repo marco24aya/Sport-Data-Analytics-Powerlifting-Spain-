@@ -27,7 +27,7 @@ Para el rendimiento de un atleta en este deporte tiene un método llamado GL Poi
 
 Por lo que a este proyecto se refiere, me he querido centrar en primer lugar sobre los atletas con mayor GL Points, cuyo primer puesto lo ocupa UNA atleta con 111,95 GL Points, seguido de un atleta masculino con 110,06 GL Points. Inma Ruiz aparece ocupa los dos primeros puestos en el TOP 10 femenino, mientras que en el caso masculino hay una gran variedad de atletas, pero no de clubes, donde RV Strerngth y Berserkers son los que predominan el TOP. 
 
-|                                                                #TOP 10 FEMENINO                                                         |
+                                                  #TOP 10 FEMENINO                                                         
 | Atleta                         | Cat peso | Cat edad | Club                | Total | Gl PTS | Competición                              |
 |--------------------------------|----------|----------|---------------------|-------|--------|------------------------------------------|
 | Soto Ruiz Inmaculada           | -63      | SNR      | LIFT AMBITION       | 510.5 | 111.95 | Campeonato de España Absoluto            |
@@ -42,7 +42,7 @@ Por lo que a este proyecto se refiere, me he querido centrar en primer lugar sob
 | Sarría Pascual Alba            | -63      | SNR      | THE NEW ERA         | 457.5 | 101.60 | II SBD Cup                               |
 
 
-|                                                                #TOP 10 MASCULINO                                                               |
+                   #TOP 10 MASCULINO                                                               
 | Atleta                                 | Cat peso | Cat edad | Club                     | Total | GL PTS | Competición                         |
 |----------------------------------------|----------|----------|--------------------------|-------|--------|-------------------------------------|
 | Pérez Barros Antonio                   | -105     | SNR      | BASIC STRENGTH           | 889.0 | 110.06 | Campeonato de España Absoluto       |
