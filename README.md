@@ -10,20 +10,24 @@ En este repositorio contiene el CSV limpio y completo de las competiciones reali
 
 ##  RESUMEN Análisis del Powerlifting
 ### ATLETAS
+
 Comenzando el análisis, la participación en los campeonatos ha sido con una predominancia de los hombres, donde representa el 71% frente al 29% de las mujeres. La mayoría de los atletas se concentra en el rango de 24 a 39 años (45,54%), seguido de los Junior [18 - 24 años] con un 38,29% y los SubJuniors representan un 10%, en cuanto a los Másters (I - IV) su representación es inferior al 7%.
 
 _Porcentaje y Distribución de la edad de los atletas_
+
 <img width="562" height="474" alt="image" src="https://github.com/user-attachments/assets/ac5a99d6-b1e0-4d39-8ebd-aa9446c19d0b" />
+
 <img width="1160" height="546" alt="image" src="https://github.com/user-attachments/assets/89896397-1e1a-4534-bca4-ab7f6725b967" />
 
 Relacionado con la categoría de peso, los datos muestran que las categorías medias masculinas y femeninas son las más comunes entre los atletas. La categoría de **-83** es la predominante (20,3%) tanto en el caso masculino como en general. Le siguen -93 (17,1%) y -74 (12%). En el caso de las mujeres la categoría **-63** ocupa el primer puesto en las mujeres, y representa el 7,3% de entre todas las categorías, le siguen -69 y -59. Lo más reseñable es que las categorías ligeras y pesadas en ambos sexos no tienen mucha representación (>6%). 
 
 ####RENDIMIENTO DE ATLETAS
+
 Para el rendimiento de un atleta en este deporte tiene un método llamado GL Points, implementadas en 2018 en competiciones internacionales, y que en 2022 fue implentado en España. Según IPF, su justificación se debe a que la método anterior no era justa ni equilibrada para todos los levantadores. 
 
 Por lo que a este proyecto se refiere, me he querido centrar en primer lugar sobre los atletas con mayor GL Points, cuyo primer puesto lo ocupa UNA atleta con 111,95 GL Points, seguido de un atleta masculino con 110,06 GL Points. Inma Ruiz aparece ocupa los dos primeros puestos en el TOP 10 femenino, mientras que en el caso masculino hay una gran variedad de atletas, pero no de clubes, donde RV Strerngth y Berserkers son los que predominan el TOP. 
 
-|                                                                TOP 10 FEMENINO                                                         |
+|                                                                #TOP 10 FEMENINO                                                         |
 | Atleta                         | Cat peso | Cat edad | Club                | Total | Gl PTS | Competición                              |
 |--------------------------------|----------|----------|---------------------|-------|--------|------------------------------------------|
 | Soto Ruiz Inmaculada           | -63      | SNR      | LIFT AMBITION       | 510.5 | 111.95 | Campeonato de España Absoluto            |
@@ -38,7 +42,7 @@ Por lo que a este proyecto se refiere, me he querido centrar en primer lugar sob
 | Sarría Pascual Alba            | -63      | SNR      | THE NEW ERA         | 457.5 | 101.60 | II SBD Cup                               |
 
 
-|                                                                TOP 10 MASCULINO                                                                |
+|                                                                #TOP 10 MASCULINO                                                               |
 | Atleta                                 | Cat peso | Cat edad | Club                     | Total | GL PTS | Competición                         |
 |----------------------------------------|----------|----------|--------------------------|-------|--------|-------------------------------------|
 | Pérez Barros Antonio                   | -105     | SNR      | BASIC STRENGTH           | 889.0 | 110.06 | Campeonato de España Absoluto       |
@@ -53,8 +57,15 @@ Por lo que a este proyecto se refiere, me he querido centrar en primer lugar sob
 | Vázquez Hernández-Carrillo Víctor      | -120     | SNR      | RV STRENGTH              | 892.5 | 104.24 | Campeonato de España Absoluto       |
 
 
-
-
+|                                                                #TOP Atletas en cada movimiento                                                           |
+| Sexo| Movimiento | Atleta                                 | Cat peso | Cat edad | Club                     | KGS   | Competición                         |
+|-----|------------|----------------------------------------|----------|----------|--------------------------|-------|-------------------------------------|
+|M    | Sentadilla | Pérez Barros Antonio                   | -105     | SNR      | BASIC STRENGTH           | 889.0 | Campeonato de España Absoluto       |
+|F    | Sentadilla | Sánchez Jorge Carla                    | -84      | JUN      | ATENEA                   | 202.5 | Campeonato de España Junior         |
+|M    | Press Banca | Ardenghi Teira Gianluca               | >120     | JUN      | ATLETAS FUERZA CASARICHE | 220.0 | XI Campeonato Sur                   |
+|F    | Press Banca | Prandi Merino Elsa                    | -63      | JUN      | SPECIFIC STRERNGTH       | 115.0 | Campeonato de España Junior         |
+|M    | Peso Muerto | Pérez Barros Antonio                  | -105     | SNR      | BASIC STRENGTH           | 363.5 | Campeonato de España Absoluto       |
+|F    | Peso Muerto | Erimo Sabadell Rosa                   | -84      | SNR      | RV STRENGTH              | 225.5 |  Campeonato de España Absoluto      |
 
 
 
