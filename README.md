@@ -21,7 +21,7 @@ _Porcentaje y Distribución de la edad de los atletas_
 
 Relacionado con la categoría de peso, los datos muestran que las categorías medias masculinas y femeninas son las más comunes entre los atletas. La categoría de **-83** es la predominante (20,3%) tanto en el caso masculino como en general. Le siguen -93 (17,1%) y -74 (12%). En el caso de las mujeres la categoría **-63** ocupa el primer puesto en las mujeres, y representa el 7,3% de entre todas las categorías, le siguen -69 y -59. Lo más reseñable es que las categorías ligeras y pesadas en ambos sexos no tienen mucha representación (>6%). 
 
-####RENDIMIENTO DE ATLETAS
+#### RENDIMIENTO DE ATLETAS
 
 Para el rendimiento de un atleta en este deporte tiene un método llamado GL Points, implementadas en 2018 en competiciones internacionales, y que en 2022 fue implentado en España. Según IPF, su justificación se debe a que la método anterior no era justa ni equilibrada para todos los levantadores. 
 
