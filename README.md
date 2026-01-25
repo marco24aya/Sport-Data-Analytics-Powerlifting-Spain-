@@ -21,7 +21,8 @@ _Tecnologías utilizadas:_
   - Jupyter Notebook 
 - Power BI
 
-**DASHBOARD**
+## **DASHBOARD**
+
 _Resumen del powerlifting español_
 <img width="1281" height="721" alt="image" src="https://github.com/user-attachments/assets/447bf673-9078-4ace-952d-1a82965ed901" />
 
